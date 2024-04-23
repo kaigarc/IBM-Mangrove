@@ -1,10 +1,24 @@
 # IBM-Mangrove
 
+# Description
+Mangrove forests are critical for mitigating the effect of climate change
+on coastal areas by reducing the impact of storms and increasing
+carbon sequestration. However, the total area of mangrove forests has
+declined significantly. Given the advances in AI and the development of
+a Geospatial foundation model by IBM, we developed a three-pronged
+AI-driven approach to mangrove conservation: (1) satellite mangrove
+segmentation models, (2) automated chatbot pipeline for scientific
+Q&A, (3) analysis of mangrove loss.
+
 # Subcategories:
-1. Factors Research/Modeling
-2. Computer Vision Modeling
-3. Chatbot Application
+1. Factors Research
+2. Satellite Segmentation Models
+3. Chatbot Development
+
+# CV Dataset:
+datasets used for segmentation component of project can be found here: https://drive.google.com/drive/folders/1U9Z0wLRpvsr_E5lfH5miafofgpNkZ5Ym?usp=sharing
+
+
 
    
-Dataset Description:
-The dataset (https://huggingface.co/datasets/pruhtopia/mangrove-loss-dataset) is aimed at facilitating image segmentation models for mangrove loss detection. This dataset consists of a collection of annotated satellite images depicting mangrove areas. Each image is labeled to indicate regions of mangrove loss, allowing researchers and practitioners to train image segmentation models to automatically detect and analyze changes in mangrove coverage over time. With this dataset, users can develop and evaluate computer vision models for mangrove loss detection, contributing to environmental conservation efforts and research in coastal ecosystems.
+
